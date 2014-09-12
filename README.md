@@ -98,5 +98,7 @@ option to false.
 	   'removeWithBackspace' : true,
 	   'minChars' : 0,
 	   'maxChars' : 0 //if not provided there is no limit,
-	   'placeholderColor' : '#666666'
+	   'placeholderColor' : '#666666',
+	   'onlyNumber': false,
+	   'strZero': 0, //if onlyNumber
 	});
